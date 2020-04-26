@@ -1,3 +1,3 @@
 # pythonBasics
 
-These are pythong basics to larn 
+These are pythong basics to learn for ML\AI
